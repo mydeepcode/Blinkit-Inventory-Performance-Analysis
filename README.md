@@ -68,7 +68,7 @@ Blinkit’s management wanted a clear view of **outlet-level business performanc
 
 ### 🖼️ Dashboard Preview
 
-🖼️ *[View Full Dashboard Image](#)*
+🖼️ *[View Full Dashboard Image](https://github.com/mydeepcode/Blinkit-Inventory-Performance-Analysis/blob/main/Blinkit%20Inventory%20%26%20Performance%20Analysis.png)*
 
 ---
 
